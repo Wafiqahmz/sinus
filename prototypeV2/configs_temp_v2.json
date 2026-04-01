@@ -1,0 +1,7 @@
+{
+    "dt_s": 1.0, 
+    "port": "/dev/cu.usbmodem141101", 
+    "baudrate": 115200, "timeout": 5, 
+    "save_filename": "v2baseline", 
+    "save_dir": "/Users/admin/Documents/es100data"
+}
