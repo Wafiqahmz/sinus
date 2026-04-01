@@ -1,0 +1,7 @@
+{
+    "dt_s": 1.0, 
+    "port": "/dev/cu.usbmodem144201", 
+    "baudrate": 115200, "timeout": 5, 
+    "save_filename": "test_v1_01212026", 
+    "save_dir": "C:/Users/omg11/Documents/SINUS"
+}
